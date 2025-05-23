@@ -1,13 +1,9 @@
 {
   "chainId": 101,
-  "address": "TOKEN_ADDRESS",
+  "address": "8UFMEoNykXaCfWbqMD6v3S36UgZLcbjNfQuo26f2T9Fi",
   "symbol": "VAKO",
-  "name": "Vako Coin",
+  "name": "vakocoin",
   "decimals": 9,
-  "logoURI": "https://yourdomain.com/vako-logo.png",
-  "tags": ["utility-token"],
-  "extensions": {
-    "website": "https://vakocoin.com",
-    "twitter": "https://twitter.com/vakocoin"
-  }
+  "logoURI": "https://raw.githubusercontent.com/vakoaliyev/vako-token-assets/main/vakocoin%20logo.png",
+  "tags": ["utility-token"]
 }
